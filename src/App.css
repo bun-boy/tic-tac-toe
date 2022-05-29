@@ -26,3 +26,11 @@
 .board-row {
   display: table;
 }
+
+.step {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.win {
+  background-color: grey;
+}
